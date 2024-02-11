@@ -11,7 +11,7 @@ content:
     - url: .
       branches: HEAD
       #branches: [ocp-4.7, ocp-4.8, ocp-4.9] 
-      start_path: documentation
+      start_path: content
       #- url: git@github.com:redhat-scholars/openshift-starter-guides-dotnet.git
       #branches: ocp-4.6
       #start_path: documentation
