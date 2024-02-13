@@ -210,7 +210,7 @@ You might already have the OpenShift CLI available on your environment. You can 
 it by running an `oc` command:
 
 [.console-input]
-[source,bash,subs="+attributes,macros+",role=tty2]
+[source,bash,subs="+attributes,macros+",role=execute]
 ----
 oc version
 ----
