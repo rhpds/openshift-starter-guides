@@ -3,6 +3,5 @@ title: OpenShift Starter Guides
 version: 4.14
 nav:
   - modules/ROOT/nav.adoc
-  - modules/ROOT/nav2.adoc
 
 start_page: ROOT:index.adoc

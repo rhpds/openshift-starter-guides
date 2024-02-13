@@ -12,6 +12,11 @@ content:
       tags: []
       branches: [main]
       start_path: content
+    - url: git@github.com:rhpds/openshift-starter-guides.git
+      tags: []
+      branches: [java]
+      start_path: content
+
 
 asciidoc:
   attributes:
