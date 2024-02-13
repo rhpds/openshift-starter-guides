@@ -1,2 +1,3 @@
 static_files:
 - .nojekyll
+- js/vendor/paste-to-console.js
