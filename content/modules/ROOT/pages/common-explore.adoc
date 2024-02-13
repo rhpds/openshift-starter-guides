@@ -212,7 +212,7 @@ it by running an `oc` command:
 [.console-input]
 [source,bash,subs="+attributes,macros+",data-myvariable="something"]
 ----
-oc version2
+oc version
 ----
 
 You should see the following (or something similar):
