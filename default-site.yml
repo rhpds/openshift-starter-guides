@@ -30,6 +30,7 @@ asciidoc:
   extensions:
     - ./lib/tab-block.js
     - ./lib/remote-include-processor.js
+    - ./lib/paste-to-console.js
 
 ui:
   bundle:
