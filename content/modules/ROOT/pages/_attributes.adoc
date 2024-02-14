@@ -1,4 +1,2 @@
 :experimental:
 :source-highlighter: highlightjs
-:tabs-sync-storage-key: tabs
-:tabs-sync-storage-scope: session
