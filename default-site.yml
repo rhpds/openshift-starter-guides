@@ -33,7 +33,7 @@ asciidoc:
     lab: java
     lab-name: Java
   extensions:
-    - ./lib/tab-block.js
+    #- ./lib/tab-block.js
     - ./lib/remote-include-processor.js
 
 ui:
