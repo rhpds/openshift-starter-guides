@@ -34,6 +34,7 @@ asciidoc:
     lab-name: Java
   extensions:
     #- ./lib/tab-block.js
+    - '@asciidoctor/tabs'
     - ./lib/remote-include-processor.js
 
 ui:
